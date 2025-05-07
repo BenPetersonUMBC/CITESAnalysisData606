@@ -31,11 +31,11 @@ While I originally tried regression models through the informaton from these 2 d
 
 
 ### Requirements
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+- pandas
+- numpy
+- scikit-learn
+- seaborn
+- matplotlib
 
 ### How to run
 1. Clone repository
