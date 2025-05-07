@@ -40,5 +40,5 @@ seaborn
 ### How to run
 1. Clone repository
 2. Download CITES dataset (877 MB available in attached google drive)
-3. Open `DATA606Finalcopy.ipynb` in Jupyter Nitebiij
+3. Open `DATA606Finalcopy.ipynb` in Jupyter Notebook
 4. Run all cells
