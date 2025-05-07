@@ -29,3 +29,16 @@ I combined 2 different datasets for this predictive modeling. The first was the 
 
 While I originally tried regression models through the informaton from these 2 datasets, it was unable to show much useful results, whether that be from not having enough correlation or user error in coding. Future considerations for this problem could be to bring in additional information that we know impact wildlife such as habitat destruction and pollution and see if bringing in more features from a variety of datasets can help to paint a more clear picture within regression modeling. Further on, I think that developing a web dashboard for conservation agencies that can focus on region-specific models and include more taxon can be beneficial to solving the issue of overexploitation in wildlife trade.
 
+
+### Requirements
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+### How to run
+1. Clone repository
+2. Download CITES dataset (877 MB available in attached google drive)
+3. Open `DATA606Finalcopy.ipynb` in Jupyter Nitebiij
+4. Run all cells
