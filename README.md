@@ -15,7 +15,7 @@ The goal of this project was to see what steps could be taken in the creation of
 
 ### Datasets
 
-I combined 2 different datasets for this predictive modeling. The first was the full CITES dataframe (https://trade.cites.org/) which includes over 26million rows and 21 different columns. The second dataset was from the World Bank Group, containing all available country GDPs' (https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) from the years 1975-2023. These years were selected as they were the same years available in the CITES dataframe.
+I combined 2 different datasets for this predictive modeling. The first was the full CITES dataframe (https://trade.cites.org/) which includes over 26million rows and 21 different columns(too large to upload). The second dataset was from the World Bank Group, containing all available country GDPs' (https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) from the years 1975-2023. These years were selected as they were the same years available in the CITES dataframe.
 
 
 ### Future Consideration
