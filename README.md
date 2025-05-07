@@ -24,6 +24,9 @@ I combined 2 different datasets for this predictive modeling. The first was the 
 
 -There was a large imbalance in the dataset, with the most "At risk" taxon only having 27% of their trading be "At Risk"
 
+### Outcomes
+
+While I did not have much success with obtaining accurate models using logistic classification or random forest classifiers, the more advanced models such as Bagging Tree Classifier and MLP faired better in accurately identifying a species as "At Risk". 
 
 ### Future Consideration
 
