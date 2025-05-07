@@ -26,7 +26,7 @@ I combined 2 different datasets for this predictive modeling. The first was the 
 
 ### Outcomes
 
-While I did not have much success with obtaining accurate models using logistic classification or random forest classifiers, the more advanced models such as Bagging Tree Classifier and MLP faired better in accurately identifying a species as "At Risk". 
+I did not have much success with obtaining accurate models using logistic classification or random forest classifiers; however, the more advanced models such as Bagging Tree Classifier and MLP faired better in accurately identifying a species as "At Risk". 
 
 ### Future Consideration
 
